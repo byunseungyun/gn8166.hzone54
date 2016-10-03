@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://gn8166.hzone.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
